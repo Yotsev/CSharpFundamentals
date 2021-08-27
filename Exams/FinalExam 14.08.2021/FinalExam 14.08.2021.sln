@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Decrypt", "01.Decrypt\01.Decrypt.csproj", "{DC66CDBB-D4FD-439B-92D9-46DDF29BFF99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.validPass", "02.validPass\02.validPass.csproj", "{64C3BD77-C2CD-4AF0-BA73-B1FE9F7A81F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Menu", "03.Menu\03.Menu.csproj", "{40F8AC93-7075-4734-AA43-7B9ED75E9A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC66CDBB-D4FD-439B-92D9-46DDF29BFF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC66CDBB-D4FD-439B-92D9-46DDF29BFF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC66CDBB-D4FD-439B-92D9-46DDF29BFF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC66CDBB-D4FD-439B-92D9-46DDF29BFF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C3BD77-C2CD-4AF0-BA73-B1FE9F7A81F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C3BD77-C2CD-4AF0-BA73-B1FE9F7A81F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C3BD77-C2CD-4AF0-BA73-B1FE9F7A81F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C3BD77-C2CD-4AF0-BA73-B1FE9F7A81F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F8AC93-7075-4734-AA43-7B9ED75E9A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F8AC93-7075-4734-AA43-7B9ED75E9A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F8AC93-7075-4734-AA43-7B9ED75E9A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F8AC93-7075-4734-AA43-7B9ED75E9A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53CA7DF5-95EA-44E4-8862-42186644AF42}
+	EndGlobalSection
+EndGlobal
